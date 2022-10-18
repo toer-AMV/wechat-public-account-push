@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oZkPt6qT0zXufkSyhKcK4MS1gsfU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '8Fs2DprIR4uQ9QicN7Zei9YPl3eV43a0h5U4E4obOKE',
+      useTemplateId: '	RzS6vwdHAWlYOBWbnUmUjroL5DUgzeZfXA2-DNThuss',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '09-23',
       festivals: [
@@ -64,7 +64,7 @@ TIAN_API: {
   
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'oZkPt6qT0zXufkSyhKcK4MS1gsfU',
+  CALLBACK_TEMPLATE_ID: '4zO3f2y664fH2EKP-xgE76qCofQujdNy7ZOy0sw6D_8',
 
   CALLBACK_USERS: [
     {
