@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'd90f39edfad26c37f76599bd6217f8ea',
 
   PROVINCE: '浙江',
-  CITY: '诸暨',
+  CITY: '诸暨市',
 
   USERS: [
     {
@@ -58,7 +58,7 @@ TIAN_API: {
     morningGreeting: true,
   
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: 3,
+    weather: 7,
   
   },
   
