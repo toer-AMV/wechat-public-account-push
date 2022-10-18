@@ -49,6 +49,19 @@ const USER_CONFIG = {
     },
   ],
 
+TIAN_API: {
+    // 天行API KEY，如果使用天行API则需要填写此项
+    key: '483a127dc95ac2aaeb615eb6fc1614a5',
+    
+    /** 天行API相关，需要config中配置 TIAN_API_KEY  */
+    // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    morningGreeting: true,
+  
+    // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
+    weather: 3,
+  
+  },
+  
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'oZkPt6qT0zXufkSyhKcK4MS1gsfU',
